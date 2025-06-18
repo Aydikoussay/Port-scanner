@@ -1,7 +1,7 @@
 # Port-scanner
 # 🔍 Port Scanner - Simple Python Tool
 
-Un outil simple de scan de ports TCP écrit en Python pour les débutants en cybersécurité.
+Un outil simple de scan de ports TCP écrit en Python .
 
 ## 📦 Fonctionnalités
 
