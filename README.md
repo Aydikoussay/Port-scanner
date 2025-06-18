@@ -13,5 +13,5 @@ Un outil simple de scan de ports TCP écrit en Python pour les débutants en cyb
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/Aydikoussay/port-scanner.git
-cd port-scanner
+git clone https://github.com/Aydikoussay/Port-scanner.git
+cd Port-scanner
